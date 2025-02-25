@@ -23,7 +23,7 @@ inicio
       Para j <- 1 ate 4 faca
            p2L <- p2L * m[2, j]
       FimPara
-      Para i <- 1 ate 4 faça
+      Para i <- 1 ate 4 faÃ§a
            Se (m[i, 3] > mai3c) entao
               mai3c <- m[i, 3]
            FimSe
