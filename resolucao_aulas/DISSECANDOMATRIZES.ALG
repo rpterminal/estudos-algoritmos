@@ -10,7 +10,7 @@ inicio
            FimPara
       FimPara
       LimpaTela
-      Escreval("MENU DE OPÇOES")
+      Escreval("MENU DE OPÃ‡OES")
       Escreval("==============")
       Escreval("[1] Mostrar a matriz")
       Escreval("[2] Diagonal principal")
