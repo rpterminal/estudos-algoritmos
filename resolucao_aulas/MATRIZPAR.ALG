@@ -6,7 +6,7 @@ inicio
       totPar <- 0
       Para l <- 1 ate 3 faca
            Para c <- 1 ate 3 faca
-                Escreva("Digite o valor da posiçao [", l, ",", c, "]: ")
+                Escreva("Digite o valor da posiÃ§ao [", l, ",", c, "]: ")
                 Leia(mat[l, c])
            FimPara
       FimPara
